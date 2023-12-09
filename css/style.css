@@ -212,7 +212,7 @@ img {
 
     color: white;
     font-weight: 700;
-    font-size: clamp(8px, 1vw, 16px);
+    font-size: clamp(14px, 1vw, 16px);
     line-height: 44px;
     text-transform: uppercase;
     text-decoration: none;
